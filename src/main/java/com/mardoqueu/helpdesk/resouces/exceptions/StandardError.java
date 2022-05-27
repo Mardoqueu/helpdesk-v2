@@ -1,4 +1,4 @@
-package com.mardoqueu.helpdesk.services.exceptions;
+package com.mardoqueu.helpdesk.resouces.exceptions;
 
 import java.io.Serializable;
 
